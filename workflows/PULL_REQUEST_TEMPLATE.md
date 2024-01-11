@@ -45,5 +45,5 @@ Please provide some steps for a reviewer(s) to test your change. If you have wro
 ## [optional] Are there any post-deployment tasks we need to perform?
 
 
-## [optional] What gif best describes this PR or how it makes you feel?
+## [optional] What gif best describes this PR?
 <!-- Optional, but recommended :) -->
